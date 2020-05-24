@@ -4,5 +4,5 @@ def pyGetRandStr(n):
     if isinstance(n,int):
         return 99
     else:
-        return "hello,world"
+        return n
     
